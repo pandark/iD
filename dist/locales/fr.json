@@ -45,7 +45,7 @@
             "title": "Poursuivre,Reprendre",
             "description": "Continuer cette ligne.",
             "not_eligible": "Aucune ligne ne peut être poursuivie ici.",
-            "multiple": "Plusieurs lignes peuvent être poursuivies ici. Pour choisir une ligne, appuiez sur la touche Shift/Majuscule du clavier et appuiez sur la ligne voulue pour la sélectionner.",
+            "multiple": "Plusieurs lignes peuvent être poursuivies ici. Pour choisir une ligne, appuyez sur la touche Shift/Majuscule du clavier et appuyez sur la ligne voulue pour la sélectionner.",
             "annotation": {
                 "line": "Une ligne continuée.",
                 "area": "Un polygone continué."
@@ -221,7 +221,7 @@
     "browser_notice": "Cet éditeur est supporté sous Firefox, Chrome, safari, Opera, et Internet  Explorer 11 et supérieur. Veuillez s'il vous plaît mettre à jour votre navigateur ou utiliser Potlach 2 pour éditer la carte.",
     "translate": {
         "translate": "Traduire",
-        "localized_translation_label": "Nom multi-langues",
+        "localized_translation_label": "Nom multilingue",
         "localized_translation_language": "Choisir une langue",
         "localized_translation_name": "Nom"
     },
@@ -241,7 +241,7 @@
     },
     "commit": {
         "title": "Sauvegarder vos modifications",
-        "description_placeholder": "Description succinte de vos contributions",
+        "description_placeholder": "Description succincte de vos contributions",
         "message_label": "Commentaire de changeset",
         "upload_explanation": "Les modifications envoyées seront visibles sur toutes les cartes qui utilisent les données d'OpenStreetMap.",
         "upload_explanation_with_user": "Les modifications envoyées en tant que {user} seront visibles sur toutes les cartes qui utilisent les données d'OpenStreetMap.",
@@ -256,11 +256,11 @@
         "about_changeset_comments_link": "//wiki.openstreetmap.org/wiki/Good_changeset_comments"
     },
     "contributors": {
-        "list": "Editions de {users}",
-        "truncated_list": "Editions de {users} et de {count} autres"
+        "list": "Éditions de {users}",
+        "truncated_list": "Éditions de {users} et de {count} autres"
     },
     "infobox": {
-        "selected": "{n} selectionné s",
+        "selected": "{n} sélectionné s",
         "geometry": "Géométrie",
         "closed": "fermé",
         "center": "Centre",
@@ -3389,7 +3389,7 @@
                 "terms": "Cave, Caviste, Magasin de vin, Vins & Spiritueux"
             },
             "shop/anime": {
-                "name": "Boutique d'« animes »",
+                "name": "Boutique d'« animes »",
                 "terms": "Vente de mangas, de CD et DVD, déguisements, accessoires"
             },
             "shop/antiques": {
